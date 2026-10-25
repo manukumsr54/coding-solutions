@@ -60,7 +60,7 @@ NO
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-25T10:47:34.032Z  
+**Submitted:** 2026-10-25T17:10:49.893Z  
 
 ```c_cpp
 string solve(int N, int X, vector<int> A) {
