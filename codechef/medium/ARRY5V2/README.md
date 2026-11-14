@@ -41,7 +41,7 @@ Write a program which does the following
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-14T12:25:09.247Z  
+**Submitted:** 2026-11-14T12:25:30.356Z  
 
 ```c_cpp
 #include <bits/stdc++.h>
@@ -49,7 +49,7 @@ using namespace std;
 
 int main() {
     int array[6] = {10,20,30,40,50,60};
-    cout<<6;
+    cout
 
 
 
